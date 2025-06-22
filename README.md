@@ -23,28 +23,38 @@ This project integrates practical cloud computing concepts to enhance data quali
 #### 1. Business Analysis and Initial System Design (Week 2)
 - **Business Question Analysis:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Interpreted Business Problem 3 from the finance domain to identify data and system requirements.
-- **Root Cause Identification:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Created a Fishbone diagram to explore contributing factors to the data challenge.
-- **Datalake Design:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Drafted an Excel-based datalake structure.<br>
+
+- **Root Cause Identification:**
+  ![22](https://github.com/user-attachments/assets/71e6c227-3d70-4b11-b5f2-aa8960ee2f08)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Created a Fishbone diagram to explore contributing factors to the data challenge.
+
+- **Datalake Design:**
+![11](https://github.com/user-attachments/assets/c3ed0d52-b484-497a-a54c-695e9aedd96a)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Drafted an Excel-based datalake structure.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Visualized the architecture in draw.io for a clear system blueprint.
+
 - **Infrastructure Setup:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Deployed an EC2 instance and configured a VPC and security group in AWS to simulate the environment.
 
 #### 2. Cost Evaluation and Data Cleaning Design (Week 3)
 - **Cost Analysis of Data Ingestion:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Used the AWS Pricing Calculator to evaluate data transfer and storage costs.
-- **Data Cleaning Blueprint:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Listed common data issues and resolution strategies in Excel.<br>
+
+- **Data Cleaning Blueprint:**
+![33](https://github.com/user-attachments/assets/233aa705-6c53-48df-9218-2380b67daa9d)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Listed common data issues and resolution strategies in Excel.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Visualized the cleaning workflow in draw.io (handling nulls, types, duplicates).
+
 - **Implementation of Cleaning:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Conducted profiling and applied cleaning techniques to improve data quality using scripts and tools.
 
 #### 3. Dataset Profiling and ETL Development (Week 4)
 - **Profiling Cost Evaluation:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Estimated resource costs for profiling and cleaning tasks.
-- **ETL Workflow Design:**  
+- **ETL Workflow Design:**
+![44](https://github.com/user-attachments/assets/7440e5d3-f05f-4edf-aa39-1eec99145a39)
 &nbsp;&nbsp;&nbsp;&nbsp;Defined an end-to-end ETL system integrating previously cleaned data.
+
 - **ETL Implementation:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Developed and tested ETL scripts to automate data movement, transformation, and loading.
 
