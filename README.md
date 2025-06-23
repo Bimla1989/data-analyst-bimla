@@ -51,9 +51,10 @@ This project integrates practical cloud computing concepts to enhance data quali
 #### 3. Dataset Profiling and ETL Development (Week 4)
 - **Profiling Cost Evaluation:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Estimated resource costs for profiling and cleaning tasks.
+
 - **ETL Workflow Design:**
-![44](https://github.com/user-attachments/assets/7440e5d3-f05f-4edf-aa39-1eec99145a39)
-&nbsp;&nbsp;&nbsp;&nbsp;Defined an end-to-end ETL system integrating previously cleaned data.
+<br>![44](https://github.com/user-attachments/assets/7440e5d3-f05f-4edf-aa39-1eec99145a39)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Defined an end-to-end ETL system integrating previously cleaned data.
 
 - **ETL Implementation:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Developed and tested ETL scripts to automate data movement, transformation, and loading.
